@@ -1,4 +1,5 @@
 <?php
+	session_start();
 	include 'defines.php';
 
 	// get pages endpoint
