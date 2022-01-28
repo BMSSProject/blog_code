@@ -7,7 +7,7 @@
 
 	// endpoint params
 	$pagesParams = array(
-		'access_token' => $_SESSION["accessToken"]
+		'access_token' => $accessToken
 	);
 
 	// add params to endpoint
